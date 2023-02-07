@@ -1,0 +1,53 @@
+{
+    "Login_Failure":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"xyzabcmno"
+    },
+    "Login_success":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996"
+    },
+    "Request_Quotation":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996",
+        "BreakdownCover":"3",
+        "incidents":"Accident",
+        "Registration":"KA 33 MR 9999",
+        "Annualmileage":"14",
+        "Estimatedvalue":"1500000",
+        "ParkingLocation":"Public place",
+        "Year":"2019",
+        "Month":"4",
+        "Day":"21"
+    },
+    "Retrieve_Quotation":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996",
+        "Quotation_Number":"21545"
+    },
+    "Profile":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996"
+    },
+    "Edit_Profile":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996",
+        "Title":"Mr",
+        "Surname":"Kandula",
+        "Firstname":"Manoj Reddy",
+        "Phone":"9581441090",
+        "Year":"1995",
+        "Month":"4",
+        "Day":"21",
+        "Licenceperiod":"3",
+        "Occupation":"12",
+        "Street":"Marathalli",
+        "City":"Bangalore",
+        "Country":"India",
+        "PostCode":"560037"
+    },
+    "LogOut":{
+        "Email":"manojreddy.kandula21@gmail.com",
+        "Password":"ManojReddy@1996"
+    }
+}

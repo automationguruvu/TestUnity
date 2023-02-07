@@ -1,0 +1,19 @@
+{
+  "name": "testunity",
+  "version": "1.0.0",
+  "description": "Demo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy_open":"npx cypress open",
+    "cy_run":"npx cypress run",
+    "e2e":"npx cypress run --reporter mochawesome --spec cypress/e2e/Testunity.cy.js"
+  },
+  "author": "manoj",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3"
+  }
+}
